@@ -1,0 +1,4 @@
+With binary search, you guess the middle number and eliminate half the
+remaining numbers every time.
+In general, for any list of n, binary search will take log2 n steps to run in the worst case,
+whereas simple search will take n steps.
